@@ -1,2 +1,2 @@
-# My-first-program
-My first program
+# Javascript program that says hello
+Javascript program that says hello
